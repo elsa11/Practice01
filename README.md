@@ -1,2 +1,2 @@
 # Practice01
-to
+学习使用python写脚本去测试接口
