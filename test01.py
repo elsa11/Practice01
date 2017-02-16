@@ -14,5 +14,5 @@ returndata=r.json()
 #returndata['id'] 可通过这种方式获取joson中的值
 print(returndata['id'])
 print(type(returndata['id']))
-assert returndata['id']==26097
+assert returndata['id']==26096
 assert returndata['key']=='银魂'
