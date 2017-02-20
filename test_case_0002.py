@@ -8,9 +8,6 @@ class CheckPoint:
         self.desc='空知英秋创作的漫画'
         self.title='银魂'
     def check(self,data):
-        '''for item in kwargs:
-                   if item.id =='id':
-                       assert item.'''
         print(data)
         for item in data.items():
             if item[0]=='id':
