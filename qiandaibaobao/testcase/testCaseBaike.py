@@ -1,6 +1,6 @@
 # coding:utf-8
-from api import baikeApi
-from common.restRequest import RestRequest
+from qiandaibaobao.api import baikeApi
+from qiandaibaobao.common.restRequest import RestRequest
 
 
 def test_baike():
