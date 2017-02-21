@@ -1,5 +1,5 @@
 # coding:utf-8
-from common.check import check_contain_equal
+from qiandaibaobao.common.check import check_contain_equal
 
 
 def url():
